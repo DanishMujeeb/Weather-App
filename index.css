@@ -1,0 +1,73 @@
+html{
+  background: url(./Sunny.jpg);
+  background-position: center;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div{
+  position: relative;
+  margin: auto;
+  width: 1000px;
+  height: 700px; 
+  text-align: center;
+  border: dotted;
+}
+
+::placeholder{
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
+input{
+  background-color: darkgray;
+  width: 200px;
+  height: 25px;
+  font-size: 15px;
+  border: none;
+  border-radius: 10px;
+}
+
+.submit{
+  position: absolute;
+  top: 130px;
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  height: 50px;
+  width: 100px;
+  background-color: transparent;
+  border-color: black;
+  color: white;
+}
+
+.submit:active{
+  background-color: black;
+}
+
+.cityName{
+  position: relative;
+  top: 80px;
+  text-align: center;
+  color: white;
+}
+
+.info{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  border: none;
+}
+
+.day1{
+  position: relative;
+  top: 100px;
+  background-color: lightgrey;
+  height: 380px;
+  width: 280px;
+  border: none;
+}
