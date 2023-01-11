@@ -7,3 +7,8 @@ I also used CSS to style the page.
 This is how the app will first appear
 
 ![WeatherApp](https://user-images.githubusercontent.com/112906660/211700357-1d9c0b9e-143b-42a6-9772-e91b608938e2.png)
+
+After entering a city the current weather and the weather for the next 2 days will appear. Additional information
+will appear below that.
+
+![WeatherAppToronto](https://user-images.githubusercontent.com/112906660/211700801-feffd40c-d9fa-4655-8d01-eb85709b2b5a.png)
