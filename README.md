@@ -3,4 +3,7 @@ I also used CSS to style the page.
 
 - Languages Used: JavaScript (React) and CSS
 - Main Concepts Covered: ES6, Events, Hooks, Axios and CSS properties
-![image](https://user-images.githubusercontent.com/112906660/211684440-dc94dad7-8f69-4733-80ea-d510b272af7a.png)
+
+This is how the app will first appear
+
+![WeatherApp](https://user-images.githubusercontent.com/112906660/211700357-1d9c0b9e-143b-42a6-9772-e91b608938e2.png)
