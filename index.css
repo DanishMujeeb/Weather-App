@@ -1,3 +1,4 @@
+/*The CSS below gives the html a background image that is centered, doesn't repeat and covers the whole screen*/
 html{
   background: url(./Sunny.jpg);
   background-position: center;
@@ -6,6 +7,7 @@ html{
   background-size: cover;
 }
 
+/*The CSS below gives the centers the div while giving it a specific size and making its border dotted*/
 div{
   position: relative;
   margin: auto;
@@ -15,12 +17,14 @@ div{
   border: dotted;
 }
 
+/*The CSS below makes the placeholder in the textbox white and centered with a specific size*/
 ::placeholder{
   font-size: 15px;
   color: white;
   text-align: center;
 }
 
+/*The CSS below makes the textbox grey, round and with no border*/
 input{
   background-color: darkgray;
   width: 200px;
@@ -30,6 +34,7 @@ input{
   border-radius: 10px;
 }
 
+/*The CSS below makes the button centered, black, transparent and the font color to be white*/
 .submit{
   position: absolute;
   top: 130px;
@@ -44,10 +49,12 @@ input{
   color: white;
 }
 
+/*The CSS below makes the button background black when clicked*/
 .submit:active{
   background-color: black;
 }
 
+/*The CSS below makes the city name centered and white*/
 .cityName{
   position: relative;
   top: 80px;
@@ -55,6 +62,7 @@ input{
   color: white;
 }
 
+/*The CSS below creates a flex box with its items centered*/
 .info{
   display: flex;
   justify-content: center;
@@ -63,6 +71,7 @@ input{
   border: none;
 }
 
+/*The CSS below makes the div's have a grey background and no border*/
 .day1{
   position: relative;
   top: 100px;
