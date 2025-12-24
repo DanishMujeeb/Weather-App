@@ -5,4 +5,4 @@ The below steps can be followed to run the program
 1. Click the green "Code" button
 2. Go to the Codespaces tab and click the "Create codespace on main" button
 3. Open the terminal in Codespaces
-4. After all of the files are available run npm start in the terminal
+4. After all of the files are available run "npm start" in the terminal
